@@ -1,0 +1,49 @@
+[general]
+settingsPath=%EXEC_PATH%
+port=9876
+revisionHosts=Sat, 04 Jan 2014 14:00:43 +0000
+revisionGui=Sat, 04 Jan 2014 14:00:49 +0000
+revisionGallery=Mon, 04 Feb 2013 00:00:00 +0000
+[default]
+outputDir=output
+saveUser=0
+savePass=0
+locale=en
+maxThreads=1
+maxTries=2
+proxyHost=
+proxyPort=-1
+tableLogDividerLocation=200
+windowState=0
+windowX=-1
+windowY=-1
+windowWidth=640
+windowHeight=480
+lookAndFeel=<system>
+timeout=30
+mainTabIndex=0
+useDefaultTokens=0
+appendLinks=1
+#
+keepImages=0
+multipleScripts=0
+compressScript=1
+saveToLocalDisk=0
+saveLinks=1
+autoParams=1
+splitUnit=1
+splitEnabled=1
+splitValue=1
+uploadScript=1
+maxSimultScripts=1
+fileListDividerLocation=170
+mainDividerLocation=200
+bottomDividerLocation=500
+fileListColPos=0;1;2
+fileListColWidth=75;75;75
+scriptOutputPath=output_scripts
+saveLinksPath=output_links/links.txt
+modifiers=HTML#<a href="$LINK$">$SCRIPTNAME$</a>;BBCode#[URL=$LINK$]$SCRIPTNAME$[/URL]
+fileListSortCol=0
+fileListSortMode=ascending
+lastLinkTemplate=

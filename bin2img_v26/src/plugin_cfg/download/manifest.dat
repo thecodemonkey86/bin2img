@@ -1,0 +1,32 @@
+[general]
+settingsPath=%EXEC_PATH%
+revisionHosts=Sun, 01 Dec 2013 00:01:56 +0000
+revisionAdditional=Mon, 02 Dec 2013 00:00:00 +0000
+[default]
+locale=en
+proxyEnabled=0
+proxyPort=-1
+maxThreads=8
+windowState=0
+windowX=0
+windowY=0
+windowWidth=640
+windowHeight=480
+lookAndFeel=<system>
+toolbarOption=0
+tableLogDividerLocation=200
+enterLinksWindowX=0
+enterLinksWindowY=0
+enterLinksWindowWidth=640
+enterLinksWindowHeight=480
+subdirOption=0
+customSubdir=
+monitorClipboard=0
+autoLoad=0
+timeout=30
+extractDialogOnTop=0
+#
+downloadManagerIcons=1
+maxSimultScripts=1
+fileTreeDlChooserDivider=200
+dlChooserTabIndex=0

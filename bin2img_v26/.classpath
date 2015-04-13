@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="plugin_cfg/download/|plugin_cfg/download/cfg/|plugin_cfg/download/cfg/additional/|plugin_cfg/download/cfg/parser/|plugin_cfg/download/icons/|plugin_cfg/download/locale/|plugin_cfg/upload/|plugin_cfg/upload/cfg/|plugin_cfg/upload/cfg/accounts/|plugin_cfg/upload/cfg/gallery/|plugin_cfg/upload/icons/|plugin_cfg/upload/locale/|plugin_cfg/|locale/" kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_anchor_percent_layout.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_anchorlayout.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_application_io.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_base64.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_buttonhandler.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_cancelexception.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_cbmodel.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_closepanel.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_collection_util.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_dirchooser.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_filechooser.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_filelist.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_fileselection.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_filetree.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_gui_transfer.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_guiutil.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_gzip_plus_base64.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_imagedownloader.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_imageuploader.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_linkcollector.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_logpanel.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_long_ringbuffer.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_lookandfeel.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_multiline_jlabel.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_netutil.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_okcancelpanel.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_pastebutton.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_percentagelayout.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_plugin_loader.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_resource.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_scheduler.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_settings.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_settings_gui.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_shoshone.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_singleinstance.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_string_util.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_tablecomps.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_tablemodel.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_transfermanager.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_util.pair.jar"/>
+	<classpathentry kind="lib" path="D:/Bernhard/eclipse_workspace_2/git/github/bin2img_v26/bin2img_lib/lib_xml.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<direct>
+<entry host="1file.de" arg="/uploads"/>
+<entry host="1mage.in" arg=""/> 
+<entry host="666kb.com" arg=""/> 
+<entry host="8-mb.de" arg=""/> 
+<entry host="99phost.com" arg=""/> 
+<entry host="imged.org" arg=""/> 
+<entry host="picshome.com" arg=""/> 
+<entry host="pictureupload.de" arg=""/> 
+<entry host="bildrian.de" arg=""/> 
+<entry host="untoldfilehost.com" arg=""/> 
+<entry host="500images.com" arg=""/> 
+<entry host="upload-image.de" arg=""/> 
+<entry host="geiler-bildhost.de" arg=""/> 
+<entry host="up-urs.net" arg=""/> 
+<entry host="archive.org" arg="/download"/> 
+<entry host="yais.dk" arg=""/> 
+<entry host="spark-media.ru" arg=""/> 
+<entry host="br.de" arg="cdn-storage"/> 
+</direct>
